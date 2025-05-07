@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 # This test is to ensure that Zeitwerk is loading all folders and files.
