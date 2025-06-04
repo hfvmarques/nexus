@@ -50,7 +50,7 @@ group :development, :test do
   gem "brakeman", require: false
 
   # Rubocop lint static code analyzer and formatter
-  gem "rubocop", "~> 1.75", require: false
+  gem "rubocop", "~> 1.76", require: false
   gem "rubocop-capybara", "~> 2.21", require: false
   gem "rubocop-factory_bot", "~> 2.26", require: false
   gem "rubocop-performance", "~> 1.21", require: false
